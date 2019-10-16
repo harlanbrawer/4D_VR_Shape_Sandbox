@@ -1,3 +1,4 @@
+A hypercube performing a ZW rotation. Created using our mesh4 class.
 ![](tesseract.gif)
 
 # 4D_VR_Shape_Sandbox
