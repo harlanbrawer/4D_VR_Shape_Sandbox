@@ -2,7 +2,7 @@ A hypercube performing a ZW rotation. Created using our mesh4 class.
 ![](tesseract.gif)
 
 # 4D_VR_Shape_Sandbox
-A virtual reality game where the player can interact and play with 4 dimensional shapes in a sandbox environment.
+A virtual reality physics engine built on top of Unity where the player can interact and play with 4 dimensional shapes in a sandbox environment.
 
 Current State of Game:
 
